@@ -28,6 +28,7 @@ function getOptions() {
     'timePickerIncrement',
     'timePickerSeconds',
     'timeZone',
+    'pickedRange',
   ];
 }
 
