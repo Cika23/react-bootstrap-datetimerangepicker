@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import $ from 'jquery';
-import 'bootstrap-daterangepicker';
+import 'daterangepicker';
 import getOptions from './getOptions';
 
 let events = ['Show', 'Hide', 'ShowCalendar', 'HideCalendar', 'Apply', 'Cancel'];
